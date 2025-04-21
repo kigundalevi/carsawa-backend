@@ -1,0 +1,6 @@
+# Ignore campus.json and .env under config
+config/campus.json
+config/.env
+
+# Ignore all .env files
+*.env           
